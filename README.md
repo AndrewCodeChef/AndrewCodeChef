@@ -1,9 +1,8 @@
-<!-- Modern Gradient Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:7CFFCB&height=120&section=header&text=Andrejs%20Absalamovs&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Subtle Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Automation;Backend+%7C+Frontend+%7C+CRM+%7C+Integrations;Building+Scalable+%26+Impactful+Solutions" alt="Typing Animation" />
 </p>
@@ -58,7 +57,6 @@ Automated onboarding & retention flows using email, SMS, and push with real-time
 - 🇱🇻 Latvian — Proficient  
 
 
-<!-- Premium Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7CFFCB&height=100&section=footer"/>
 </p>
